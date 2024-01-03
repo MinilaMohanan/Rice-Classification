@@ -5,3 +5,5 @@ Certainly! In order to classify different types of rice found in India, includin
 To train your CNN model, you've gathered a dataset consisting of labeled images of the three rice types. This dataset was then split into training and validation sets, allowing your model to learn from the training data and evaluate its performance on unseen images using the validation set. During the training process, the model iteratively adjusts its internal parameters to minimize the classification error.
 
 After sufficient training, your CNN model has learned to differentiate between "Basmati," "Arborio," and "Ipsala" rice types based on their distinct visual characteristics. This model can now accept an input image, process it through its layers, and provide a classification prediction as output. The use of TensorFlow, a popular deep learning framework, has facilitated the implementation and training of this CNN model, enabling accurate and automated classification of the various rice types commonly found in India.
+
+https://www.linkedin.com/in/minila-k-m-0b7199263/recent-activity/all/
